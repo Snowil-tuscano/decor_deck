@@ -29,9 +29,9 @@ class _PghoneLoginScreenState extends State<PghoneLoginScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const WelcomeText(
-                title: "Get started with Foodly",
+                title: "Get started with Decor Deck",
                 text:
-                    "Enter your phone number to use foodly \nand enjoy your food :)",
+                    "Enter your phone number to use Decor Deck \nand enjoy your Furniture :)",
               ),
               const SizedBox(height: defaultPadding),
               Form(
