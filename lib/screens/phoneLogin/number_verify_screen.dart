@@ -12,7 +12,7 @@ class NumberVerifyScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Login to Foodly"),
+        title: const Text("Login to Decor Deck"),
       ),
       body: SingleChildScrollView(
         child: Padding(
