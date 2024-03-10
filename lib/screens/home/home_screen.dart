@@ -102,7 +102,7 @@ class HomeScreen extends StatelessWidget {
                   child: furnitureInfoBigCard(
                     // Images are List<String>
                     images: demoBigImages..shuffle(),
-                    name: "McDonald's",
+                    name: "Exotic Sofas",
                     rating: 4.3,
                     numOfRating: 200,
                     deliveryTime: 25,
