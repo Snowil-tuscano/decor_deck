@@ -17,13 +17,13 @@ class RestaurantInfo extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "Mayfield Bakery & Cafe",
+            "Decor Deck Selection ",
             style: Theme.of(context).textTheme.headlineMedium,
             maxLines: 1,
           ),
           const SizedBox(height: defaultPadding / 2),
           const PriceRangeAndFoodtype(
-            foodType: ["Chinese", "American", "Deshi food"],
+            foodType: ["chair", "Sofa", "Aram cahir"],
           ),
           const SizedBox(height: defaultPadding / 2),
           const RatingWithCounter(rating: 4.3, numOfRating: 200),

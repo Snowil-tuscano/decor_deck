@@ -38,7 +38,7 @@ class _ItemsState extends State<Items> {
               title: demoData[index]["title"],
               description: demoData[index]["description"],
               image: demoData[index]["image"],
-              foodType: demoData[index]['foodType'],
+              foodType: demoData[index]['Furniture Type'],
               price: demoData[index]["price"],
               priceRange: demoData[index]["priceRange"],
               press: () => Navigator.push(

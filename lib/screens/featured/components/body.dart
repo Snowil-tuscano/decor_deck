@@ -42,7 +42,7 @@ class _BodyState extends State<Body> {
                 : furnitureInfoBigCard(
                     // Images are List<String>
                     images: demoBigImages..shuffle(),
-                    name: "McDonald's",
+                    name: "Exotic sofas",
                     rating: 4.3,
                     numOfRating: 200,
                     deliveryTime: 25,
